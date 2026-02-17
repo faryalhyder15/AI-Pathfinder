@@ -71,9 +71,8 @@ Dynamic obstacle probability is configurable.
   - Obstacles (Black)
 - Animated exploration effect with slight delay
 
----
 
-## ⚙️ Requirements
+##  Requirements
 
 Install dependencies before running:
 
